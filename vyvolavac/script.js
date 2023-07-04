@@ -7,6 +7,8 @@ Napiš program, který bude žáky náhodně vyvolávat k tabuli.
 Po stisknutí tlačítka na stránce:
 
 1) vyber náhodně jedno jméno ze seznamu
+   - vygeneruj náhodné celé číslo (ne větší než délka pole)
+   - vyber jméno na tomto náhodném indexu
 
 2) vybrané jména napiš dovnitř prvku s id="vyvolany"
 
